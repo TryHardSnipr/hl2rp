@@ -136,7 +136,7 @@ nut.voice.register("combine", "CLASSIFY DB", "Classify subject name as 'DB'; thi
 nut.voice.register("combine", "CLEANED", "Cleaned.", "npc/combine_soldier/vo/cleaned.wav")
 nut.voice.register("combine", "CLEAR CODE 100", "Clear and code one-hundred.", "npc/metropolice/vo/clearandcode100.wav")
 nut.voice.register("combine", "CLOSE ON SUSPECT", "All units, close on suspect!", "npc/metropolice/vo/allunitscloseonsuspect.wav")
-nut.voice.register("combine", "CLOSING", "Closing!", {"npc/combine_soldier/vo/closing.wav", "npc/combine_soldier/vo/closing2.wav"})
+nut.voice.register("combine", "CLOSING", "Closing!", "npc/combine_soldier/vo/closing.wav", "npc/combine_soldier/vo/closing2.wav")
 nut.voice.register("combine", "CODE 100", "Code one-hundred.", "npc/metropolice/vo/code100.wav")
 nut.voice.register("combine", "CODE 2", "All units, code two!", "npc/metropolice/vo/allunitscode2.wav")
 nut.voice.register("combine", "CODE 3", "Officer down, request all units, code three to my 10-20!", "npc/metropolice/vo/officerdowncode3tomy10-20.wav")
